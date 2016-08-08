@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Video Capture</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="preview">Preview</string>
+    <string name="recVideo">Record Video</string>
+    <string name="view_video_info">View Video Info</string>
+</resources>

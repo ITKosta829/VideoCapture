@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="21"
+    density="xxhdpi"
+    format="7"
+    timestamp="172673962170468" >
+
+    <task
+        name="javac"
+        duration="148" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="25" />
+    <task
+        name="verifier"
+        duration="3" />
+
+    <artifact
+        location="D:\AndroidStudioProjects\VideoCapture\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="172673962170468" >
+        <artifact
+            location="D:\AndroidStudioProjects\VideoCapture\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
